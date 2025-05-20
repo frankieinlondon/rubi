@@ -10,8 +10,11 @@
   },
   "2025-05-20": {
     "grid": [
-      ["blue", "red", "yellow", "green", "blue"],
-      ...
+      ["red", "green", "blue", "yellow", "red"],
+      ["blue", "yellow", "red", "green", "blue"],
+      ["green", "red", "yellow", "blue", "green"],
+      ["yellow", "blue", "green", "red", "yellow"],
+      ["red", "green", "blue", "yellow", "red"]
     ]
   }
 }
